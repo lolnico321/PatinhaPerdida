@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210595286844",
+    "project_id": "conexao-5c740",
+    "storage_bucket": "conexao-5c740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210595286844:android:47769d3381b55d097c1839",
+        "android_client_info": {
+          "package_name": "br.edu.ifpr.patinha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqz-LnI-5SxoVjatHOZsTBrOgAkeWWts0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
